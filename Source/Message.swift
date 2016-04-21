@@ -1,5 +1,7 @@
 import UIKit
 
+public typealias WSPMessage = Message
+
 public struct Message {
 
   public var title: String
